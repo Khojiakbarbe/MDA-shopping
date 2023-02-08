@@ -1,0 +1,460 @@
+.controller {
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.navbarLinks {
+    width: 30%;
+    margin-left: 13%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.messengers {
+    background-color: none;
+    border: none;
+    padding: 2%;
+}
+
+.toContactText {
+    margin-left: 12%;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.toContactText h1 {
+    font-size: 300%;
+}
+
+.toContactText p {
+    font-size: 1vw;
+}
+
+.contactUsHomeBtn {
+    padding: 2%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-weight: 500;
+    margin-top: 5%;
+}
+
+@media only screen and (max-width: 991px) {
+
+    .navbarLinks a {
+        font-size: 150%;
+        font-weight: bold;
+        margin-left: -20%;
+    }
+
+    .navbarMessengerBtn {
+        position: relative;
+        left: 25%;
+        margin-left: 1%;
+    }
+
+    .toContactText {
+        margin-left: 5%;
+    }
+
+    .toContactText h1 {
+        font-size: 400%;
+        width: 80%;
+    }
+
+    .toContactText p {
+        font-size: 200%;
+    }
+
+    /* services */
+    .serviceCol img {
+        height: 400px;
+    }
+
+    .serviceCol {
+        height: 500px;
+    }
+
+    .serviceCol h3 {
+        font-size: 300%;
+    }
+
+    /* footer */
+    .footerLink {
+        text-align: center;
+    }
+
+    /* stepper */
+    .howItWorks {
+        font-size: 400%;
+        margin-bottom: 5%;
+    }
+
+    .steppersDiv {
+        width: 50%;
+        height: 300px;
+        border-radius: 50%;
+        margin-bottom: 32%;
+    }
+
+    .stepperImg {
+        width: 50%;
+        padding: 15%;
+        border: 1px solid #3579F4;
+        border-radius: 50%;
+    }
+
+    .stepperImg img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .steppersDiv svg {
+        width: 100%;
+        margin-top: 50%;
+        margin-left: -25%;
+        transform: rotate(90deg)
+    }
+
+    .steppersDiv .stepperH3,
+    .stepperP {
+        position: relative;
+        left: 120%;
+        top: -50%;
+        font-size: 200%;
+    }
+
+}
+
+.toContactImg img {
+    width: 100%;
+}
+
+
+@media only screen and (min-width: 992px) {
+
+    .toContactImg {
+        margin-left: -30%;
+    }
+
+    /* Service */
+    .serviceCol {
+        height: 300px;
+    }
+
+    .serviceCol img {
+        height: 200px;
+    }
+
+
+    /* stepper */
+    .steppersDiv {
+        width: 100%;
+        border-radius: 50%;
+    }
+
+    .stepperImg {
+        width: 50%;
+        padding: 15%;
+        border: 1px solid #3579F4;
+        border-radius: 50%;
+    }
+
+    .stepperImg img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .steppersDiv svg {
+        width: 58%;
+        margin-top: -60%;
+        margin-left: 50%;
+    }
+
+    .stepperH3 {
+        font-size: 150%;
+    }
+
+    .stepperP {
+        font-size: 100%;
+    }
+
+
+
+}
+
+
+/* Stepper */
+
+.steppersDiv:hover {
+    cursor: pointer;
+}
+
+
+/* Service */
+
+#servicesWeDo {
+    color: #3579F4;
+    margin-bottom: 3%;
+}
+
+.serviceCol h3 {
+    text-align: start;
+    position: relative;
+    left: 10%;
+    top: 15%;
+    z-index: 5;
+}
+
+.serviceCol img {
+    width: 70%;
+    margin-top: 5%;
+}
+
+.serviceCol {
+    text-align: end;
+    box-shadow: -4px 4px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#aboutServiceBtn {
+    border: none;
+    background-color: #F0F0FA;
+    font-family: 'Inter';
+    color: #8C8C8C;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+
+#aboutServiceBtn:hover {
+    transition: 0.5s;
+    color: black;
+}
+
+/* Buying Assistance */
+
+.buyAssistText {
+    margin-left: 10%;
+    width: 65%;
+}
+
+.buyAssistText h1,
+p {
+    margin-bottom: 5%;
+}
+
+.buyingImg {
+    width: 80%;
+}
+
+.buyAssHowWork {
+    background: #FFFFFF;
+    box-shadow: -4px 4px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    height: 300px;
+    padding: 5%;
+}
+
+.buyAssHowWork h3 {
+    color: #3579F4;
+    margin-bottom: 5%;
+}
+
+/* AutoTransports */
+
+.autoTransportText {
+    position: relative;
+    left: 10%;
+}
+
+.autoTransportText p {
+    width: 65%;
+}
+
+.autoTransportText h3,
+h5 {
+    color: blue;
+    margin-top: 3%;
+}
+
+.autoTransportImg {
+    margin-top: 10%;
+}
+
+
+/* DetailsWithSmallImag */
+.smallImg {
+    background: #F0F0FA;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.smallImg img {
+    height: 100px;
+}
+
+
+
+/* Optional service */
+
+.optionalService {
+    margin-top: 5%;
+}
+
+
+.optionalServiceBtn {
+    background: #FFFFFF;
+    box-shadow: -4px 4px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    font-size: 150%;
+    text-align: center;
+    padding: 4%;
+    height: 100px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.optionalServiceBtn:hover {
+    box-shadow: -4px 4px 16px #3579F4;
+    transition: 0.5s;
+}
+
+
+/* Purchase */
+
+.purchaseTexts {
+    position: relative;
+    left: 5%;
+}
+
+.purchaseTexts h1 {
+    font-size: 300%;
+}
+
+.purchaseTexts p {
+    width: 60%;
+}
+
+
+.purchaseHowItWorks {
+    padding: 3%;
+    background: #FFFFFF;
+    box-shadow: -4px 4px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    height: 200px;
+}
+
+.purchaseHowItWorks h4 {
+    margin-top: 5%;
+    color: #3579F4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+
+footer {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+    position: relative;
+    bottom: 0;
+}
+
+.contactMessage {
+    background-color: #3579F4;
+    padding-top: 5%;
+    padding-left: 5%;
+    color: white;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    padding-bottom: 100px;
+}
+
+.contactMessageImg {
+    text-align: end;
+}
+
+.contactMessageImg img {
+    width: 70%;
+}
+
+.contactMessage .row .p-5 input {
+    color: white;
+    border: 1px solid;
+}
+
+.sendMessageBtn {
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 10px;
+    border: none;
+    color: #8C8C8C;
+}
+
+.sendMessageBtn:hover {
+    background-color: white;
+    transition: 0.5s;
+}
+
+
+.footerLink {
+    background-color: #18162D;
+    color: white;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    margin-top: -50px;
+    text-align: center;
+}
+
+.footerLink a {
+    color: white;
+    margin-top: 50%;
+}
+
+.footerLink .messengers {
+    background-color: #18162D;
+    border: none;
+    margin: 2%;
+}

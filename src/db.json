@@ -1,0 +1,376 @@
+{
+  "contactUs": [],
+  "buyingAssistance": [
+    {
+      "id": 1,
+      "name": "Buying assistance",
+      "title": "Buying a vehicle at an auto auction is a great way to make a smart buy. Whether you are seeking that just-right vehicle for a client, looking for a smart money-maker to add to your lot inventory, or you’re buying a vehicle as a private buyer for yourself, auto auctions offer plenty of bargains.",
+      "button": "Contact us to learn more",
+      "img": "../db/buyingAssistance.png"
+    }
+  ],
+  "autoTransport": [
+    {
+      "id": 1,
+      "img": "../db/autoTransport1.png",
+      "name": "Auto transport",
+      "blogName": "",
+      "title": "Cargo safety and your piece of mind – our main priorities. ",
+      "title2": " The art of shipping vehicles demands the highest level of work. Our expertise and professional team provides you special customized service.",
+      "blueText1": "",
+      "blueText2": "",
+      "blueText3": "",
+      "button": "Contact us to learn more"
+    },
+    {
+      "id": 2,
+      "img": "../db/autoTransport2.png",
+      "name": "",
+      "blogName": "Open trailer",
+      "title": "Open Trailer auto shipping is known as most common type of auto transport.",
+      "title2": "We recommend for: Salvage cars, Used cars, Cars from auction",
+      "blueText1": "Easy loading",
+      "blueText2": "Quick shipment",
+      "blueText3": "Cost - effective solution",
+      "button": ""
+    },
+    {
+      "id": 3,
+      "img": "../db/autoTransport3.png",
+      "name": "",
+      "blogName": "Enclosed trailer",
+      "title": "Enclosed Trailer is the safest solution, but more expensive..",
+      "title2": "We recommend for: Brand new, Exclusive and collectible cars. All our carriers have at least 250,000 cargo insurance.",
+      "blueText1": "Protection against environmental conditions",
+      "blueText2": "Protection against environmental conditions",
+      "blueText3": "",
+      "button": ""
+    }
+  ],
+  "warehousing": [
+    {
+      "id": 1,
+      "img": "../db/warehousing.png",
+      "name": "Warehousing",
+      "title": "We offer complete line of warehousing services. We can receive your goods, segregate them as needed, and store/prepare them for final destination. We handle warehousing services for all commodities including automobiles, general cargo, light and heavy machinery, boats, ATVs, Hazmat and any other cargo.",
+      "title2": "",
+      "blueText1": "",
+      "blueText2": "",
+      "blueText3": "",
+      "button": "Contact us to learn more"
+    }
+  ],
+  "autoMobileLoading": [
+    {
+      "id": 1,
+      "name": "Automobile loading",
+      "blogName": "",
+      "blueText": "We load all types of cars",
+      "title": "Using different container size options, we take care of your car by securing it safely in the container. Depending on the size of the container, we can load up to 6 cars.",
+      "title2": "",
+      "smallImg1": "../db/autoLoadingSmall1.png",
+      "smallImg2": "../db/autoLoadingSmall2.png",
+      "smallImg3": "../db/autoLoadingSmall3.png",
+      "smallImg4": "../db/autoLoadingSmall4.png",
+      "smallImg5": "../db/autoLoadingSmall5.png",
+      "smallImg6": "../db/autoLoadingSmall6.png",
+      "img": "../db/autoLoading.jpg"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "blogName": "20 FT",
+      "blueText": "20 FT / 1 CAR",
+      "title2": "The safiest way to load one car",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/autoLoading2.png"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "blogName": "40HC & 45HC",
+      "blueText": "40HC & 45HC / 2 CAR",
+      "title2": "The safiest way to load two cars in one container",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/autoLoading3.png"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "blogName": "",
+      "blueText": "40 FT / 3 CAR",
+      "title": "",
+      "title2": "One car usually lifted and two cars on the floor",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/autoLoading4.png"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "blogName": "",
+      "blueText": "40 FT / 4 CAR",
+      "title": "",
+      "title2": "Two cars always elevated and two secured on the floor. One of the most cost-efficient ways",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/autoLoading5.png"
+    },
+    {
+      "id": 6,
+      "name": "",
+      "blogName": "",
+      "blueText": "40 FT / 5 CAR",
+      "title": "",
+      "title2": "Three cars elevated and two cars secured on the floor",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/autoLoading6.png"
+    },
+    {
+      "id": 7,
+      "name": "",
+      "blogName": "",
+      "blueText": "40 FT / 6 CAR",
+      "title": "",
+      "title2": "Three cars elevated and three secured on the floor",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/autoLoading7.png"
+    }
+  ],
+  "motorcycle": [
+    {
+      "id": 1,
+      "name": "Motorcycle loading",
+      "blogName": "",
+      "blueText": "We load all types of motorcycles",
+      "title": "We will load your motorcycle and ATV into shipping containers. Using different container options, we take care of your motorcycle by lashing it safely to the container floor or deck.",
+      "smallImg1": "../db/motorcycleSmall1.png",
+      "smallImg2": "../db/motorcycleSmall2.png",
+      "smallImg3": "../db/motorcycleSmall3.png",
+      "smallImg4": "../db/motorcycleSmall4.png",
+      "smallImg5": "../db/motorcycleSmall5.png",
+      "smallImg6": "../db/motorcycleSmall6.png",
+      "img": "../db/motorcycle.png"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "blogName": "Floor loading",
+      "blueText": "",
+      "title": "The motorcycle lashed with straps and additionally reinforced with wooden blocks. ",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/motorcycle2.png"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "blogName": "Ramps loading",
+      "blueText": "",
+      "title": "The motorcycle tires fixed on wooden ramps and secured with straps.",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/motorcycle3.png"
+    }
+  ],
+  "boat": [
+    {
+      "id": 1,
+      "name": "Boat loading",
+      "blogName": "",
+      "blueText": "We load all types of boats",
+      "title": "Using different container size options, we take care of the boats by securing it safely in the container.",
+      "smallImg1": "../db/boatSmall1.png",
+      "smallImg2": "../db/boatSmall2.png",
+      "smallImg3": "../db/boatSmall3.png",
+      "smallImg4": "../db/boatSmall4.png",
+      "smallImg5": "../db/boatSmall5.png",
+      "smallImg6": "../db/boatSmall6.png",
+      "img": "../db/boat.png"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "blogName": "Container shipment",
+      "blueText": "",
+      "title": "Boats or yachts are often transported in containers as a better alternative for cost effectiveness and security reasons. We can offer flip loading for bigger boats that don’t exceed 102 inches in beam width.",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/boat2.png"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "blogName": "Flat rack loading",
+      "blueText": "",
+      "title": "Boats are transported on the platform and safely lashed. All Flat Rack Shipment are passing NCB Inspection. Best option for bigger boat that don’t exceed 36 feet in length.",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/boat3.png"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "blogName": " On deck cargo",
+      "blueText": "",
+      "title": "Boats or yachts are loaded/ unloaded directly from the sea or from the shore. Yachts Ships or cranes in cradles are utilized to load bigger boats or yachts.",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/boat4.png"
+    }
+  ],
+  "heavyMachinery": [
+    {
+      "id": 1,
+      "name": "Heavy machinery loading",
+      "blogName": "",
+      "blueText": "We load all types of heavy machinery",
+      "title": "Using different container size options, we take care of the heavy machinery by securing it safely in the container.",
+      "smallImg1": "../db/heavySmall1.png",
+      "smallImg2": "../db/heavySmall2.png",
+      "smallImg3": "../db/heavySmall3.png",
+      "smallImg4": "../db/heavySmall4.png",
+      "smallImg5": "../db/heavySmall5.png",
+      "smallImg6": "../db/heavySmall6.png",
+      "img": "../db/heavyMachinery.png"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "blogName": "Heavy machinery loading",
+      "blueText": "",
+      "title": "If your machinery is not running or it is too big, we professionally dismantle it before loading. Dismantled components are safely packed and loaded into a container along with the rest of the cargo. It is the cheapest method of shipping.",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/heavy2.png"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "blogName": "Flat rack loading",
+      "blueText": "",
+      "title": "We can load your machines and equipment on Flat Racks. We secure your equipment safely and according to all maritime standards.",
+      "smallImg1": "",
+      "smallImg2": "",
+      "smallImg3": "",
+      "smallImg4": "",
+      "smallImg5": "",
+      "smallImg6": "",
+      "img": "../db/heavy3.png"
+    }
+  ],
+  "dismantling": [
+    {
+      "id": 1,
+      "name": "Dismantling",
+      "blogName": "",
+      "blueText": "",
+      "title": "Car dismantling services and auto parts shipping are cost-effective solutions for the export of auto parts.",
+      "title2": "We offer quality dismantling and cutting services. We can load up to 20 dismantled cars into a 40’ HC container. Numbers of the cars that we can load will vary depending on the way you dismantle the car.",
+      "img": "../db/dismantling4.png",
+      "button": "Contact us to learn more"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "blogName": "3 Piece cutting ",
+      "blueText": "",
+      "title": "Vehicle is cut in 3 pieces: front cut, rear cut, roof cut. We will remove parts to make safe loading such as hood, fenders, headlights, trunk, real lights. Carpet and wire are not available in this option.",
+      "title2": "Approximate quantity to fit in 40ft container is 6-9 cars, based on type of cars and type of loading you choose.",
+      "img": "../db/dismantling2.png",
+      "button": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "blogName": "Front Cut",
+      "blueText": "",
+      "title": "Only front cut is made and all requested parts removed from the vehicle.We will remove parts to make safe loading such as hood, fenders and bumper. Carpet and wires are available in this option. Approximate quantity to fit in 40ft container 12-18 cars based on type of cars.",
+      "title2": "",
+      "img": "../db/dismantling3.png",
+      "button": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "blogName": "Full dismantling",
+      "blueText": "",
+      "title": "We especially recommend this option for auto parts dealers. It is a super economical method. We will remove all parts from the vehicle. Only empty shell will be disposed. Carpet and wires included in this option.",
+      "title2": "Approximate quantity to fit in 40ft container is 14-20 cars based on type of cars, quantity of parts requested. This option is good for those who want to sell separate parts and don’t need further dismantling.",
+      "img": "../db/dismantling4.png",
+      "button": ""
+    },
+    {
+      "id": 5,
+      "name": "",
+      "blogName": "Custom dismantling",
+      "blueText": "",
+      "title": "We specialize in providing wide range of customs dismantling and we can handle any special request.",
+      "title2": "",
+      "img": "../db/dismantling5.png",
+      "button": ""
+    }
+  ],
+  "purchase": [
+    {
+      "id": 1,
+      "name": "Parts purchase assistance",
+      "img": "../db/purchase.png",
+      "title": "We can provide auto spare parts for vehicles any model to extensive cars with advanced technical functionalities.",
+      "title2": "Simply tell us what you require, and we will obtain and install it for you.",
+      "button": "Contact us to learn more"
+    }
+  ]
+}
